@@ -1,0 +1,154 @@
+[
+  {
+    "chef_id": 1001,
+    "recipe_name": "Kung Pao Chicken",
+    "ingredients": ["chicken breast", "dried red chilies", "roasted peanuts", "green onions", "garlic", "soy sauce", "vinegar", "sugar", "cornstarch", "oil"],
+    "cooking_method": "Cut the chicken breast into small cubes and marinate them in a mixture of soy sauce, vinegar, sugar, and cornstarch for 30 minutes. Heat oil in a wok or large skillet and stir-fry the chicken until browned. Remove the chicken from the pan and stir-fry dried red chilies, garlic, and green onions until fragrant. Add the chicken back into the pan along with roasted peanuts and continue stir-frying for a minute. Serve hot with rice.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 2002,
+    "recipe_name": "Ma Po Tofu",
+    "ingredients": ["firm tofu", "Sichuan peppercorns", "doubanjiang", "chopped scallions", "garlic", "ginger", "soy sauce", "chicken broth", "cornstarch", "oil"],
+    "cooking_method": "In a pot, bring chicken broth to a boil and add soy sauce, Sichuan peppercorns, chopped scallions, garlic, and ginger. Add the cubed tofu and let it simmer for a few minutes. In a separate pan add the doubanjiang let it simmer for a few minutes. Mix some cornstarch with water to make a slurry and pour it into the pot to thicken the sauce. Serve hot with rice.",
+    "rating": 4.7
+  },
+
+  {
+    "chef_id": 1001,
+    "recipe_name": "Egg Fried Rice",
+    "ingredients": ["cooked rice", "eggs", "frozen peas and carrots", "chopped scallions", "soy sauce", "oil", "salt", "pepper"],
+    "cooking_method": "Heat oil in a wok or large skillet and scramble the eggs until fully cooked. Remove the eggs from the pan and set them aside. Stir-fry frozen peas and carrots until cooked, then add chopped scallions and continue stir-frying for another minute. Add the cooked rice and stir-fry for a few minutes until the rice is heated through. Add soy sauce, salt, and pepper to taste. Add the scrambled eggs back into the pan and stir-fry for another minute. Serve hot.",
+    "rating": 4.2
+},
+{
+  "chef_id": 1001,
+  "recipe_name": "Mapo Doufu (Spicy Tofu)",
+  "ingredients": ["soft tofu", "Sichuan peppercorns", "doubanjiang", "chopped scallions", "garlic", "ginger", "soy sauce", "chicken broth", "cornstarch", "oil"],
+  "cooking_method": "Heat oil in a wok or large skillet and add chopped scallions, garlic, and ginger. Add the stir-fry until browned. Add the doubanjiang and Sichuan peppercorns and stir-fry for a minute. Pour in chicken broth and bring to a boil. Add cubed tofu and simmer for a few minutes. Mix cornstarch with water to make a slurry and pour it into the pan to thicken the sauce. Serve hot with rice.",
+  "rating": 4.8
+},
+{
+  "chef_id": 2002,
+  "recipe_name": "Jiaozi (Chinese Dumplings)",
+  "ingredients": [ "shrimp", "Chinese chives", "garlic", "ginger", "soy sauce", "sesame oil", "cornstarch", "wonton wrappers"],
+  "cooking_method": "Mix chopped shrimp, minced garlic and ginger, chopped chives, soy sauce, sesame oil, and cornstarch in a bowl. Take a wonton wrapper, place a spoonful of the mixture in the center, and fold the wrapper into a dumpling shape. Repeat until all filling is used. Boil the dumplings in a pot of salted water until they float to the surface. Serve hot with soy sauce or chili oil dipping sauce.",
+  "rating": 4.6
+},
+{
+  "chef_id": 2002,
+  "recipe_name": "Sichuan Dan Dan Noodles",
+  "ingredients": [ "Sichuan peppercorns", "doubanjiang", "soy sauce", "chicken broth", "garlic", "ginger", "scallions", "sesame oil", "noodles", "bean sprouts"],
+  "cooking_method": "Cook the noodles according to package instructions and set aside. Heat oil in a wok or large skillet and add Sichuan peppercorns, doubanjiang, garlic, and ginger and stir-fry for a minute. Add chicken broth and soy sauce and bring to a boil. Serve the cooked noodles in a bowl, pour the sauce over the top, and add chopped scallions, bean sprouts, and a drizzle of sesame oil. Serve hot.",
+  "rating": 4.9
+},
+{
+  "chef_id": 3003,
+  "recipe_name": "Kung Pao Chicken",
+  "ingredients": ["chicken breast", "Sichuan peppercorns", "dried red chili peppers", "ginger", "garlic", "scallions", "roasted peanuts", "soy sauce", "Chinese rice wine", "cornstarch", "oil"],
+  "cooking_method": "Cut the chicken breast into small cubes and marinate in soy sauce, Chinese rice wine, and cornstarch. Heat oil in a wok or large skillet and stir-fry the chicken until browned. Add chopped ginger, garlic, dried red chili peppers, and Sichuan peppercorns and stir-fry for a minute. Add roasted peanuts and scallions and stir-fry for another minute. Serve hot with rice.",
+  "rating": 4.7
+},
+
+{
+  "chef_id": 4004,
+  "recipe_name": "Zha Jiang Mian (Fried Sauce Noodles)",
+  "ingredients": [ "dried shiitake mushrooms", "garlic", "ginger", "doubanjiang", "sweet bean sauce", "soy sauce", "sugar", "noodles", "chopped scallions"],
+  "cooking_method": "Soak dried shiitake mushrooms in hot water until soft, then chop them into small pieces. Heat oil in a wok or large skillet. Add chopped garlic and ginger and stir-fry for a minute. Add doubanjiang and sweet bean sauce and stir-fry for another minute. Add chopped shiitake mushrooms, soy sauce, and sugar and stir-fry for a few minutes. Cook noodles according to package instructions and serve with the sauce on top. Garnish with chopped scallions.",
+  "rating": 4.5
+},
+{
+  "chef_id": 4004,
+  "recipe_name": "Shrimp and Broccoli Stir-Fry",
+  "ingredients": ["shrimp", "broccoli", "garlic", "ginger", "oyster sauce", "soy sauce", "sugar", "cornstarch", "oil"],
+  "cooking_method": "Heat oil in a wok or large skillet and stir-fry chopped garlic and ginger until fragrant. Add broccoli florets and stir-fry for a few minutes until they turn bright green. Add shrimp and stir-fry until pink. Mix oyster sauce, soy sauce, sugar, and cornstarch in a bowl and pour it into the pan. Stir-fry for another minute until the sauce thickens. Serve hot with rice.",
+  "rating": 4.6
+},
+{
+  "chef_id": 3003,
+  "recipe_name": "Scallion Pancakes",
+  "ingredients": ["flour", "water", "scallions", "salt", "oil"],
+  "cooking_method": "Mix flour, water, and salt in a bowl to make a dough. Roll out the dough into a thin sheet and sprinkle chopped scallions on top. Roll up the sheet and then coil it into a spiral. Roll out the spiral into a thin pancake. Heat oil in a pan and fry the pancake until golden brown on both sides. Serve hot.",
+  "rating": 4.4
+},
+{
+  "chef_id": 3003,
+  "recipe_name": "Hot and Sour Soup",
+  "ingredients": ["chicken broth", "tofu", "bamboo shoots", "dried shiitake mushrooms", "wood ear mushrooms", "eggs", "cornstarch", "rice vinegar", "soy sauce", "sesame oil", "white pepper"],
+  "cooking_method": "Soak dried shiitake mushrooms and wood ear mushrooms in hot water until soft, then chop them into small pieces. In a pot, bring chicken broth to a boil and add chopped tofu, bamboo shoots, and the chopped mushrooms. Beat eggs in a bowl and pour them into the pot in a thin stream while stirring. Mix cornstarch with water and pour it into the pot to thicken the soup. Add rice vinegar, soy sauce, sesame oil, and white pepper to taste. Serve hot.",
+  "rating": 4.5
+},
+{
+  "chef_id": 4004,
+  "recipe_name": "Kung Pao Chicken",
+  "ingredients": ["chicken breast", "cornstarch", "soy sauce", "rice wine", "sugar", "dried red chili peppers", "Sichuan peppercorns", "garlic", "ginger", "scallions", "roasted peanuts"],
+  "cooking_method": "Cut chicken breast into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine for 20 minutes. In a separate pan, heat oil and stir-fry dried red chili peppers, Sichuan peppercorns, garlic, ginger, and chopped scallions until fragrant. Add the marinated chicken and stir-fry until cooked through. Add sugar and roasted peanuts and stir-fry for another minute. Serve hot.",
+  "rating": 4.6
+},
+{
+  "chef_id": 4004,
+  "recipe_name": "Shrimp Fried Rice",
+  "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "onion", "garlic", "soy sauce", "oyster sauce", "oil"],
+  "cooking_method": "Cook rice and let it cool. In a pan, heat oil and stir-fry shrimp until pink. Add beaten eggs and stir-fry until scrambled. Add chopped carrots, peas, onion, and garlic and stir-fry until tender. Add cooked rice and stir-fry until heated through. Season with soy sauce and oyster sauce to taste. Serve hot.",
+  "rating": 4.3
+},
+{
+  "chef_id": 5005,
+  "recipe_name": "Chinese Steamed Fish",
+  "ingredients": ["fish fillet", "ginger", "scallions", "soy sauce", "rice wine", "sugar", "oil"],
+  "cooking_method": "Lay fish fillet on a plate and scatter sliced ginger and scallions on top. In a separate bowl, mix soy sauce, rice wine, and sugar and pour it over the fish. Heat water in a steamer and place the plate on the steaming rack. Steam the fish for 10-15 minutes, or until cooked through. Heat oil in a pan until smoking and pour it over the steamed fish to release the aroma. Serve hot.",
+  "rating": 4.7
+},
+{
+  "chef_id": 5005,
+  "recipe_name": "Mapo Tofu",
+  "ingredients": ["tofu", "doubanjiang (fermented bean paste)", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "cornstarch", "chicken broth"],
+  "cooking_method": "Cut tofu into cubes and blanch in boiling water for 2-3 minutes. In a pan, heat oil and add doubanjiang, Sichuan peppercorns, garlic, ginger, and chopped scallions and stir-fry until fragrant. Add soy sauce, rice wine, and chicken broth and bring to a boil. Thicken the sauce with cornstarch slurry and add blanched tofu. Stir gently until the tofu is coated with the sauce. Serve hot.",
+  "rating": 4.8
+},
+{
+  "chef_id": 5005,
+  "recipe_name": "Wonton Soup",
+  "ingredients": ["wonton wrappers", "shrimp", "scallions", "ginger", "soy sauce", "sesame oil", "salt", "chicken broth"],
+  "cooking_method": "Mix chopped shrimp, chopped scallions, grated ginger, soy sauce, sesame oil, and salt to make the filling. Wrap the filling with wonton wrappers and seal the edges. In a pot, bring chicken broth to a boil and add wontons. Cook until the wontons float to the surface. Serve hot.",
+  "rating": 4.2
+},
+{
+  "chef_id": 6006,
+  "recipe_name": "Beef and Broccoli Stir-Fry",
+  "ingredients": ["beef sirloin", "broccoli", "garlic", "ginger", "soy sauce", "oyster sauce", "cornstarch", "oil"],
+  "cooking_method": "Slice beef sirloin thinly and marinate in a mixture of soy sauce, oyster sauce, and cornstarch for 20 minutes. Cut broccoli into small florets and blanch in boiling water for 2-3 minutes. In a pan, heat oil and stir-fry chopped garlic and grated ginger until fragrant. Add the marinated beef and stir-fry until cooked through. Add blanched broccoli and stir-fry for another minute. Serve hot.",
+  "rating": 4.4
+},
+{
+  "chef_id": 6006,
+  "recipe_name": "Kung Pao Chicken",
+  "ingredients": ["chicken thighs", "dried red chili peppers", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "cornstarch", "roasted peanuts"],
+  "cooking_method": "Cut chicken thighs into bite-sized pieces and marinate in a mixture of soy sauce, rice wine, and cornstarch for 20 minutes. In a pan, heat oil and stir-fry dried red chili peppers and Sichuan peppercorns until fragrant. Add chopped garlic, grated ginger, and sliced scallions and stir-fry for another minute. Add the marinated chicken and stir-fry until cooked through. Add roasted peanuts and stir-fry for another minute. Serve hot.",
+  "rating": 4.6
+},
+{
+  "chef_id": 6006,
+  "recipe_name": "Ma Po Eggplant",
+  "ingredients": ["eggplant", "doubanjiang (fermented bean paste)", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "cornstarch", "chicken broth"],
+  "cooking_method": "Cut eggplant into small cubes and blanch in boiling water for 2-3 minutes. In a pan, add doubanjiang, Sichuan peppercorns, garlic, ginger, and chopped scallions and stir-fry until fragrant. Add soy sauce, rice wine, and chicken broth and bring to a boil. Thicken the sauce with cornstarch slurry and add blanched eggplant. Stir gently until the eggplant is coated with the sauce. Serve hot.",
+  "rating": 4.7
+},
+{
+  "chef_id": 1001,
+  "recipe_name": "Stir-fried Chinese Broccoli",
+  "ingredients": ["Chinese broccoli", "garlic", "ginger", "oyster sauce", "soy sauce", "sugar", "cornstarch", "vegetable oil"],
+  "cooking_method": "Cut Chinese broccoli into bite-sized pieces and blanch in boiling water for 1-2 minutes. In a pan, heat oil and stir-fry chopped garlic and grated ginger until fragrant. Add blanched Chinese broccoli and stir-fry for another minute. Add a mixture of oyster sauce, soy sauce, sugar, and cornstarch and stir-fry until the sauce thickens. Serve hot.",
+  "rating": 4.2
+},
+
+{
+  "chef_id": 6006,
+  "recipe_name": "Sichuan Spicy Chicken",
+  "ingredients": ["chicken breast", "dried red chili peppers", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "cornstarch", "vegetable oil"],
+  "cooking_method": "Cut chicken breast into bite-sized pieces and marinate in a mixture of soy sauce, rice wine, and cornstarch for 20 minutes. In a pan, heat oil and stir-fry dried red chili peppers and Sichuan peppercorns until fragrant. Add chopped garlic, grated ginger, and sliced scallions and stir-fry for another minute. Add the marinated chicken and stir-fry until cooked through. Serve hot.",
+  "rating": 4.4
+}
+
+
+]
