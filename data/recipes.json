@@ -9,7 +9,7 @@
   {
     "chef_id": 2002,
     "recipe_name": "Ma Po Tofu",
-    "ingredients": ["firm tofu", "Sichuan peppercorns", "doubanjiang", "chopped scallions", "garlic", "ginger", "soy sauce", "chicken broth", "cornstarch", "oil"],
+    "ingredients": ["firm tofu", "doubanjiang", "chopped scallions", "garlic", "ginger", "soy sauce", "chicken broth", "cornstarch", "oil"],
     "cooking_method": "In a pot, bring chicken broth to a boil and add soy sauce, Sichuan peppercorns, chopped scallions, garlic, and ginger. Add the cubed tofu and let it simmer for a few minutes. In a separate pan add the doubanjiang let it simmer for a few minutes. Mix some cornstarch with water to make a slurry and pour it into the pot to thicken the sauce. Serve hot with rice.",
     "rating": 4.7
   },
@@ -26,21 +26,24 @@
   "recipe_name": "Mapo Doufu (Spicy Tofu)",
   "ingredients": ["soft tofu", "Sichuan peppercorns", "doubanjiang", "chopped scallions", "garlic", "ginger", "soy sauce", "chicken broth", "cornstarch", "oil"],
   "cooking_method": "Heat oil in a wok or large skillet and add chopped scallions, garlic, and ginger. Add the stir-fry until browned. Add the doubanjiang and Sichuan peppercorns and stir-fry for a minute. Pour in chicken broth and bring to a boil. Add cubed tofu and simmer for a few minutes. Mix cornstarch with water to make a slurry and pour it into the pan to thicken the sauce. Serve hot with rice.",
-  "rating": 4.8
+  "rating": 4.8,
+  "recipe_image": "https://i.ibb.co/zH5Hp2j/photo-1680173073730-852e0ec93bec-ixlib-rb-4-0.jpg"
 },
 {
   "chef_id": 2002,
   "recipe_name": "Jiaozi (Chinese Dumplings)",
   "ingredients": [ "shrimp", "Chinese chives", "garlic", "ginger", "soy sauce", "sesame oil", "cornstarch", "wonton wrappers"],
   "cooking_method": "Mix chopped shrimp, minced garlic and ginger, chopped chives, soy sauce, sesame oil, and cornstarch in a bowl. Take a wonton wrapper, place a spoonful of the mixture in the center, and fold the wrapper into a dumpling shape. Repeat until all filling is used. Boil the dumplings in a pot of salted water until they float to the surface. Serve hot with soy sauce or chili oil dipping sauce.",
-  "rating": 4.6
+  "rating": 4.8,
+  "recipe_image": "https://i.ibb.co/GsHY85D/photo-1523905330026-b8bd1f5f320e-ixlib-rb-4-0.jpg"
 },
 {
   "chef_id": 2002,
   "recipe_name": "Sichuan Dan Dan Noodles",
-  "ingredients": [ "Sichuan peppercorns", "doubanjiang", "soy sauce", "chicken broth", "garlic", "ginger", "scallions", "sesame oil", "noodles", "bean sprouts"],
+  "ingredients": [ "Sichuan peppercorns", "doubanjiang", "soy sauce", "garlic", "ginger", "scallions", "sesame oil", "noodles", "bean sprouts"],
   "cooking_method": "Cook the noodles according to package instructions and set aside. Heat oil in a wok or large skillet and add Sichuan peppercorns, doubanjiang, garlic, and ginger and stir-fry for a minute. Add chicken broth and soy sauce and bring to a boil. Serve the cooked noodles in a bowl, pour the sauce over the top, and add chopped scallions, bean sprouts, and a drizzle of sesame oil. Serve hot.",
-  "rating": 4.9
+  "rating": 4.9,
+  "recipe_image": "https://i.ibb.co/pLxf1Qc/photo-1618889482923-38250401a84e-ixlib-rb-4-0.jpg"
 },
 {
   "chef_id": 3003,
@@ -104,7 +107,7 @@
   "recipe_name": "Mapo Tofu",
   "ingredients": ["tofu", "doubanjiang (fermented bean paste)", "Sichuan peppercorns", "garlic", "ginger", "scallions", "soy sauce", "rice wine", "cornstarch", "chicken broth"],
   "cooking_method": "Cut tofu into cubes and blanch in boiling water for 2-3 minutes. In a pan, heat oil and add doubanjiang, Sichuan peppercorns, garlic, ginger, and chopped scallions and stir-fry until fragrant. Add soy sauce, rice wine, and chicken broth and bring to a boil. Thicken the sauce with cornstarch slurry and add blanched tofu. Stir gently until the tofu is coated with the sauce. Serve hot.",
-  "rating": 4.8
+  "rating": 4.6
 },
 {
   "chef_id": 5005,

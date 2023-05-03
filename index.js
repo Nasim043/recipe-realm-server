@@ -17,6 +17,11 @@ app.get('/chefs/:id', (req, res) => {
   res.send(chefRecipes);
 })
 
+app.get('/popular', (req, res) => {
+  let chefRecipes = recipes.filter(recipe => recipe.rating > 4.7)
+  res.send(chefRecipes);
+})
+
 app.listen(port, () => {
   console.log(`Server run on port ${port}`);
 })
