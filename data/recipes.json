@@ -63,7 +63,7 @@
 {
   "chef_id": 4004,
   "recipe_name": "Shrimp and Broccoli Stir-Fry",
-  "ingredients": ["shrimp", "broccoli", "garlic", "ginger", "oyster sauce", "soy sauce", "sugar", "cornstarch", "oil"],
+  "ingredients": ["shrimp", "broccoli", "garlic", "ginger", "soy sauce", "sugar", "cornstarch", "oil"],
   "cooking_method": "Heat oil in a wok or large skillet and stir-fry chopped garlic and ginger until fragrant. Add broccoli florets and stir-fry for a few minutes until they turn bright green. Add shrimp and stir-fry until pink. Mix oyster sauce, soy sauce, sugar, and cornstarch in a bowl and pour it into the pan. Stir-fry for another minute until the sauce thickens. Serve hot with rice.",
   "rating": 4.6
 },
@@ -89,9 +89,9 @@
   "rating": 4.6
 },
 {
-  "chef_id": 4004,
+  "chef_id": 7007,
   "recipe_name": "Shrimp Fried Rice",
-  "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "onion", "garlic", "soy sauce", "oyster sauce", "oil"],
+  "ingredients": ["rice","shrimp","eggs","carrots","peas","onion","garlic"],
   "cooking_method": "Cook rice and let it cool. In a pan, heat oil and stir-fry shrimp until pink. Add beaten eggs and stir-fry until scrambled. Add chopped carrots, peas, onion, and garlic and stir-fry until tender. Add cooked rice and stir-fry until heated through. Season with soy sauce and oyster sauce to taste. Serve hot.",
   "rating": 4.3
 },
